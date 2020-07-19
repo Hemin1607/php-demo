@@ -6,5 +6,5 @@
 This project for simple demo for scraping data from other site
 
 ### How to run project
-->run file bday_quotes_scraping.php
-->data inserted in mysql database
+* run file bday_quotes_scraping.php
+* data inserted in mysql database

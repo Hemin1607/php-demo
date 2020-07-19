@@ -3,14 +3,11 @@
 ### contact info patelhemin1607@gmail.com   (+91)9979290148
 
 ### About Folder
-csv_example
-
+* csv_example
 ->Demo for create and append csv file
 
-google_api
-
+* google_api
 ->Demo for google api (gmail and sheet)
 
-scraping
-
+* scraping
 ->Demo for scrap data from other site
